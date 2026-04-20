@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="330" y1="170" x2="870" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0"/>
+      <stop offset="1" stop-color="#94A3B8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="180" cy="110" r="120" fill="#14B8A6" fill-opacity="0.14"/>
+  <circle cx="1070" cy="620" r="170" fill="#22D3EE" fill-opacity="0.12"/>
+
+  <rect x="300" y="160" width="600" height="340" rx="22" fill="#0B1220" stroke="#334155" stroke-width="8"/>
+  <rect x="330" y="190" width="540" height="280" rx="12" fill="url(#screen)"/>
+  <rect x="250" y="510" width="700" height="26" rx="12" fill="#CBD5E1"/>
+  <rect x="420" y="540" width="360" height="18" rx="9" fill="#94A3B8"/>
+
+  <path d="M430 265C430 265 495 240 560 265C625 290 690 290 760 255" stroke="#0F766E" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="525" cy="332" r="14" fill="#0EA5E9"/>
+  <circle cx="620" cy="310" r="10" fill="#22C55E"/>
+  <circle cx="710" cy="342" r="12" fill="#F59E0B"/>
+</svg>
